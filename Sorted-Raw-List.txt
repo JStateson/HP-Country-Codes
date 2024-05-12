@@ -1,0 +1,56 @@
+This file is not used
+Number slots:56
+#AB0 Taiwan
+#AB1 Korea
+#AB2 China
+#AB4 Singapore Malaysia
+#AB5 Hong Kong
+#AB6 Arabia (French)
+#AB7 Greece
+#AB8 Turkey
+#AB9 Portugal
+#ABA US (English)
+#ABB Europe (English)
+#ABC Canada (French)
+#ABD Germany
+#ABE Spain
+#ABF France
+#ABG Australia
+#ABH Netherlands
+#ABJ Japan
+#ABL Canada english/french
+#ABM L A (Spanish)
+#ABN Norway
+#ABP Swiss (German)
+#ABQ Swiss (French)
+#ABS Sweden
+#ABT Hebrew
+#ABU UK (English)
+#ABV Arabia (English)
+#ABW Belgium (Flemish)
+#ABX Finland
+#ABY Denmark
+#ABZ Italy
+#AC4 Brazil
+#AC8 Argentina (Spanish)
+#ACB Russia
+#ACJ India
+#ACQ South Africa
+#ACY Sweden (English)
+#AKB Czech
+#AKC Hungary
+#AKD Poland
+#AKG Eastern Europe
+#AKJ Hebrew (English)
+#AKL Thailand
+#AKN Slovenia
+#AKR Slovakia
+#AKV South America (Spanish)
+#ARE Malaysia English
+#ARL Baltic
+#B16 LA Spanish
+#BCM Ukraine
+#BH5 kenya#UUF Asia Pacific English
+#UUG Belgium french
+#UUW Skandinavien
+#UUZ Switzerland
