@@ -51,7 +51,7 @@ def sort_and_remove_duplicates():
     nRows = n // ColumnsWanted    
 
     with open(TableList, 'w') as file:
-        file.writelines("<table border='1' width='50%'>")
+        file.writelines("<table border='1' width='100%'>")
         for i in range (nRows):
             LineOut ="<tr>"
             for j in range (ColumnsWanted):
