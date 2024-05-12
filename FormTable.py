@@ -49,7 +49,7 @@ def sort_and_remove_duplicates():
         file.writelines("|||\r\n")
         file.writelines("| ------------- |:-------------:|\r\n")
         for i in range (nRows):
-            LineOut = "|" +unique_lines[i].replace('\n', '') + "|" + unique_lines[j].replace('\n', '') + "|\n"
+            LineOut = "|" +unique_lines[i].replace('\n', '') + "|" + unique_lines[j].replace('\n', '') + "|\r\n"
             j+= 1;
             file.writelines(LineOut)
 
