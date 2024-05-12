@@ -4,33 +4,24 @@ To update this list, add new codes to 'Unsorted-Raw-List.txt'
 
 Then run the python program 'FormTable.py'
 
-|||
-| ------------- | ------------- |
-|#AB0 Taiwan|#ABX Finland|
-|#AB1 Korea|#ABY Denmark|
-|#AB2 China|#ABZ Italy|
-|#AB4 Singapore Malaysia|#AC4 Brazil|
-|#AB5 Hong Kong|#AC8 Argentina (Spanish)|
-|#AB6 Arabia (French)|#ACB Russia|
-|#AB7 Greece|#ACJ India|
-|#AB8 Turkey|#ACQ South Africa|
-|#AB9 Portugal|#ACY Sweden (English)|
-|#ABA US (English)|#AKB Czech|
-|#ABB Europe (English)|#AKC Hungary|
-|#ABC Canada (French)|#AKD Poland|
-|#ABD Germany|#AKG Eastern Europe|
-|#ABE Spain|#AKJ Hebrew (English)|
-|#ABF France|#AKL Thailand|
-|#ABG Australia|#AKN Slovenia|
-|#ABH Netherlands|#AKR Slovakia|
-|#ABJ Japan|#AKV South America (Spanish)|
-|#ABL Canada english/french|#ARE Malaysia English|
-|#ABM L A (Spanish)|#ARL Baltic|
-|#ABN Norway|#B16 LA Spanish|
-|#ABP Swiss (German)|#BCM Ukraine|
-|#ABQ Swiss (French)|#BH5 kenya|
-|#ABS Sweden|#UUF Asia Pacific English|
-|#ABT Hebrew|#UUG Belgium french|
-|#ABU UK (English)|#UUW Skandinavien|
-|#ABV Arabia (English)|#UUZ Switzerland|
-|#ABW Belgium (Flemish)||
+||||
+| ------------- | ------------- | ------------- |
+|#AB0 Taiwan|#ABM L A (Spanish)|#AKC Hungary|
+|#AB1 Korea|#ABN Norway|#AKD Poland|
+|#AB2 China|#ABP Swiss (German)|#AKG Eastern Europe|
+|#AB4 Singapore Malaysia|#ABQ Swiss (French)|#AKJ Hebrew (English)|
+|#AB5 Hong Kong|#ABS Sweden|#AKL Thailand|
+|#AB6 Arabia (French)|#ABT Hebrew|#AKN Slovenia|
+|#AB7 Greece|#ABU UK (English)|#AKR Slovakia|
+|#AB8 Turkey|#ABV Arabia (English)|#AKV South America (Spanish)|
+|#AB9 Portugal|#ABW Belgium (Flemish)|#ARE Malaysia English|
+|#ABA US (English)|#ABX Finland|#ARL Baltic|
+|#ABB Europe (English)|#ABY Denmark|#B16 LA Spanish|
+|#ABC Canada (French)|#ABZ Italy|#BCM Ukraine|
+|#ABD Germany|#AC4 Brazil|#BH5 kenya|
+|#ABE Spain|#AC8 Argentina (Spanish)|#UUF Asia Pacific English|
+|#ABF France|#ACB Russia|#UUG Belgium french|
+|#ABG Australia|#ACJ India|#UUW Skandinavien|
+|#ABH Netherlands|#ACQ South Africa|#UUZ Switzerland|
+|#ABJ Japan|#ACY Sweden (English)||
+|#ABL Canada english/french|#AKB Czech||

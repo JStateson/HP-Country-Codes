@@ -1,5 +1,5 @@
 This file is not used
-Number slots:56
+Number slots:57
 #AB0 Taiwan
 #AB1 Korea
 #AB2 China
