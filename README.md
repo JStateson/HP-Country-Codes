@@ -5,7 +5,7 @@ To update this list, add new codes to 'Unsorted-Raw-List.txt'
 Then run the python program 'FormTable.py'
 
 |||
-| ------------- |:-------------:|
+| ------------- | ------------- |
 |#AB0 Taiwan|#ABX Finland|
 |#AB1 Korea|#ABY Denmark|
 |#AB2 China|#ABZ Italy|

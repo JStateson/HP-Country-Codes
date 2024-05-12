@@ -47,7 +47,7 @@ def sort_and_remove_duplicates():
         file.writelines("To update this list, add new codes to 'Unsorted-Raw-List.txt'\n\n")
         file.writelines("Then run the python program 'FormTable.py'\n\n")
         file.writelines("|||\n")
-        file.writelines("| ------------- |:-------------:|\n")
+        file.writelines("| ------------- | ------------- |\n")
         for i in range (nRows):
             LineOut = "|" +unique_lines[i].replace('\n', '') + "|" + unique_lines[j].replace('\n', '') + "|\n"
             j+= 1;
