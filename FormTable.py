@@ -43,8 +43,8 @@ def sort_and_remove_duplicates():
 
     j = nRows
     with open(ReadMe, 'w') as file:
-        file.writelines("# HP-Country-Codes\n## List of known country codes gathered from Internet.\n")
-        file.writelines("To update this list, add new codes to 'Unsorted-Raw-List.txt'\n")
+        file.writelines("# HP-Country-Codes\n## List of known country codes gathered from the Internet.\n")
+        file.writelines("To update this list, add new codes to 'Unsorted-Raw-List.txt'\n\n")
         file.writelines("Then run the python program 'FormTable.py'\n\n")
         file.writelines("|||\n")
         file.writelines("| ------------- |:-------------:|\n")

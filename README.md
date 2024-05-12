@@ -1,6 +1,7 @@
 # HP-Country-Codes
-## List of known country codes gathered from Internet.
+## List of known country codes gathered from the Internet.
 To update this list, add new codes to 'Unsorted-Raw-List.txt'
+
 Then run the python program 'FormTable.py'
 
 |||
