@@ -4,6 +4,7 @@ from telnetlib import theNULL
 Unsorted = "Unsorted-Raw-List.txt"
 SortedUnique = "Sorted-Raw-List.txt"
 TableList = "HP_CountryCodes.html"
+ReadMe = "README.md"
 
 def round_to_even(n):
     return n if n % 2 == 0 else n + 1 if n % 2 != 0 else n - 1
@@ -40,6 +41,17 @@ def sort_and_remove_duplicates():
             file.writelines(LineOut)
         file.writelines("</table>")
 
+    j = nRows
+    with open(ReadMe, 'w') as file:
+        file.writelines("# HP-Country-Codes\r\n## List of known country codes gathered from Internet.\r\n")
+        file.writelines("To update this list, add new codes to 'Unsorted-Raw-List.txt'\r\n")
+        file.writelines("Then run the python program 'FormTable.py'\r\n\r\n")
+        file.writelines("|||\r\n")
+        file.writelines("| ------------- |:-------------:|\r\n")
+        for i in range (nRows):
+            LineOut = "|" +unique_lines[i].replace('\n', '') + "|" + unique_lines[j].replace('\n', '') + "|\n"
+            j+= 1;
+            file.writelines(LineOut)
 
 
 sort_and_remove_duplicates()
