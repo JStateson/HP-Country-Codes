@@ -21,8 +21,6 @@ def add_phrase_to_strings(strings, phrase):
     return [s + phrase for s in strings]
 
 def sort_and_remove_duplicates():
-    StartIndex = [0] * ColumnsWanted 
-
 
     # Read the contents of the file
     with open(Unsorted, 'r') as file:
@@ -36,45 +34,48 @@ def sort_and_remove_duplicates():
     
     NumItems = len(unique_lines)
     n = make_divisible(NumItems,ColumnsWanted)
-    for i in range (ColumnsWanted):
-        StartIndex[i] = i * n   
-
+    nRows = n // ColumnsWanted  
+    
     if n != NumItems:
         d = n - NumItems
         for i in range (d):
-            unique_lines.append("")
-            
+            unique_lines.append("")        
+          
     # Write the sorted, unique lines back to the file
     with open(SortedUnique, 'w') as file:
-        file.writelines("This file is not used\r\nNumber slots:" + str(n) + "\r\n")
+        LineOut = "This file is not used\r\n"
+        LineOut += "Number Countries:" + str(NumItems) + "\r\n"
+        LineOut += "Columns wanted:" + str(ColumnsWanted) + "\r\n"
+        LineOut += "Number Rows:" + str(nRows) + "\r\n"
+        LineOut += "Number slots:" + str(n) + "\r\n"
+        file.writelines(LineOut);
         file.writelines(unique_lines)
-    nRows = n // ColumnsWanted    
+    
 
     with open(TableList, 'w') as file:
-        file.writelines("<table border='1' width='100%'>")
+        LineOut ="<table border='1' width='100%'>"
         for i in range (nRows):
-            LineOut ="<tr>"
+            LineOut +="<tr>"
             for j in range (ColumnsWanted):
                 aLine = "<td>" +unique_lines[i+j*nRows].replace('\n', '') + "</td>" 
                 LineOut+= aLine;
             LineOut += "</tr>"
-            file.writelines(LineOut)
-        file.writelines("</table>")
-
+        LineOut += "</table>"
+        file.writelines(LineOut)
 
     with open(ReadMe, 'w') as file:
-        file.writelines("# HP-Country-Codes\n## List of known country codes gathered from the Internet.\n")
-        file.writelines("To update this list, add new codes to 'Unsorted-Raw-List.txt'\n\n")
-        file.writelines("Then run the python program 'FormTable.py'\n\n")
-        file.writelines(dup_n("|",ColumnsWanted) + "|\n")
-        file.writelines(dup_n("| ------------- ",ColumnsWanted) + "|\n")
+        LineOut = ""
+        LineOut += "# HP-Country-Codes\n## List of known country codes gathered from the Internet.\n"
+        LineOut += "To update this list, add new codes to 'Unsorted-Raw-List.txt'\n\n"
+        LineOut += "Then run the python program 'FormTable.py'\n\n"
+        LineOut += dup_n("|",ColumnsWanted) + "|\n"
+        LineOut += dup_n("| ------------- ",ColumnsWanted) + "|\n"
         for i in range (nRows):
-            LineOut = ""
             for j in range (ColumnsWanted):
                 aLine = "|" +unique_lines[i+j*nRows].replace('\n', '')
                 LineOut += aLine
             LineOut += "|\n"
-            file.writelines(LineOut)
+        file.writelines(LineOut)
 
 
 sort_and_remove_duplicates()

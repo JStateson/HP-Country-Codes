@@ -1,4 +1,7 @@
 This file is not used
+Number Countries:55
+Columns wanted:3
+Number Rows:19
 Number slots:57
 #AB0 Taiwan
 #AB1 Korea
