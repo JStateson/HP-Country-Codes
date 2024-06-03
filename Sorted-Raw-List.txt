@@ -1,5 +1,5 @@
 This file is not used
-Number Countries:55
+Number Countries:56
 Columns wanted:3
 Number Rows:19
 Number slots:57
@@ -52,8 +52,9 @@ Number slots:57
 #ARE Malaysia English
 #ARL Baltic
 #B16 LA Spanish
-#BCM Ukraine
-#BH5 kenya#UUF Asia Pacific English
+#B1R Estonia#BCM Ukraine
+#BH5 kenya
+#UUF Asia Pacific English
 #UUG Belgium french
 #UUW Skandinavien
 #UUZ Switzerland

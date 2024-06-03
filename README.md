@@ -17,11 +17,11 @@ Then run the python program 'FormTable.py'
 |#AB9 Portugal|#ABW Belgium (Flemish)|#ARE Malaysia English|
 |#ABA US (English)|#ABX Finland|#ARL Baltic|
 |#ABB Europe (English)|#ABY Denmark|#B16 LA Spanish|
-|#ABC Canada (French)|#ABZ Italy|#BCM Ukraine|
-|#ABD Germany|#AC4 Brazil|#BH5 kenya|
-|#ABE Spain|#AC8 Argentina (Spanish)|#UUF Asia Pacific English|
-|#ABF France|#ACB Russia|#UUG Belgium french|
-|#ABG Australia|#ACJ India|#UUW Skandinavien|
-|#ABH Netherlands|#ACQ South Africa|#UUZ Switzerland|
-|#ABJ Japan|#ACY Sweden (English)||
+|#ABC Canada (French)|#ABZ Italy|#B1R Estonia|
+|#ABD Germany|#AC4 Brazil|#BCM Ukraine|
+|#ABE Spain|#AC8 Argentina (Spanish)|#BH5 kenya|
+|#ABF France|#ACB Russia|#UUF Asia Pacific English|
+|#ABG Australia|#ACJ India|#UUG Belgium french|
+|#ABH Netherlands|#ACQ South Africa|#UUW Skandinavien|
+|#ABJ Japan|#ACY Sweden (English)|#UUZ Switzerland|
 |#ABL Canada english/french|#AKB Czech||

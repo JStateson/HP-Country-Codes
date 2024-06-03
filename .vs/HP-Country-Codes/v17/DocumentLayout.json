@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61521093-94AF-4647-AE28-402CB2BF5AF7}|HP-Country-Codes.pyproj|C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\Unsorted-Raw-List.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61521093-94AF-4647-AE28-402CB2BF5AF7}|HP-Country-Codes.pyproj|solutionrelative:Unsorted-Raw-List.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61521093-94AF-4647-AE28-402CB2BF5AF7}|HP-Country-Codes.pyproj|C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\FormTable.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{61521093-94AF-4647-AE28-402CB2BF5AF7}|HP-Country-Codes.pyproj|solutionrelative:FormTable.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Unsorted-Raw-List.txt",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\Unsorted-Raw-List.txt",
+              "RelativeDocumentMoniker": "Unsorted-Raw-List.txt",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\Unsorted-Raw-List.txt",
+              "RelativeToolTip": "Unsorted-Raw-List.txt",
+              "ViewState": "AQIAADMAAAAAAAAAAADwvzcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-03T13:03:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormTable.py",
               "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\FormTable.py",
               "RelativeDocumentMoniker": "FormTable.py",
               "ToolTip": "C:\\Users\\josep\\source\\repos\\HP-Country-Codes\\FormTable.py",
               "RelativeToolTip": "FormTable.py",
-              "ViewState": "AQIAACkAAAAAAAAAAAA1wDMAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-05-12T11:55:56.011Z",
               "EditorCaption": ""
