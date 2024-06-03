@@ -29,9 +29,23 @@ def sort_and_remove_duplicates():
     # Filter out empty or whitespace-only lines
     non_empty_lines = [line for line in lines if line.strip()]
     
-    # Remove duplicates and sort
-    unique_lines = sorted(set(non_empty_lines))
+    modified_lines = ['#' + line if not '#' in line else line for line in lines]
+            
     
+    # Remove duplicates and sort
+    #unique_lines = sorted(set(modified_lines))
+    # Sort the lines based on the first four characters
+    
+    sorted_lines = sorted(modified_lines, key=lambda line: line[:4])
+    
+    # Remove duplicates
+    seen = set()
+    unique_lines = []
+    for line in sorted_lines:
+        if line[:4] not in seen:
+            unique_lines.append(line)
+            seen.add(line[:4])
+            
     NumItems = len(unique_lines)
     n = make_divisible(NumItems,ColumnsWanted)
     nRows = n // ColumnsWanted  

@@ -6,22 +6,26 @@ Then run the python program 'FormTable.py'
 
 ||||
 | ------------- | ------------- | ------------- |
-|#AB0 Taiwan|#ABM L A (Spanish)|#AKC Hungary|
-|#AB1 Korea|#ABN Norway|#AKD Poland|
-|#AB2 China|#ABP Swiss (German)|#AKG Eastern Europe|
-|#AB4 Singapore Malaysia|#ABQ Swiss (French)|#AKJ Hebrew (English)|
-|#AB5 Hong Kong|#ABS Sweden|#AKL Thailand|
-|#AB6 Arabia (French)|#ABT Hebrew|#AKN Slovenia|
-|#AB7 Greece|#ABU UK (English)|#AKR Slovakia|
-|#AB8 Turkey|#ABV Arabia (English)|#AKV South America (Spanish)|
-|#AB9 Portugal|#ABW Belgium (Flemish)|#ARE Malaysia English|
-|#ABA US (English)|#ABX Finland|#ARL Baltic|
-|#ABB Europe (English)|#ABY Denmark|#B16 LA Spanish|
-|#ABC Canada (French)|#ABZ Italy|#B1R Estonia|
-|#ABD Germany|#AC4 Brazil|#BCM Ukraine|
-|#ABE Spain|#AC8 Argentina (Spanish)|#BH5 kenya|
-|#ABF France|#ACB Russia|#UUF Asia Pacific English|
-|#ABG Australia|#ACJ India|#UUG Belgium french|
-|#ABH Netherlands|#ACQ South Africa|#UUW Skandinavien|
-|#ABJ Japan|#ACY Sweden (English)|#UUZ Switzerland|
-|#ABL Canada english/french|#AKB Czech||
+|#A2M - Iceland - English |#ABN Norway|#AKG Eastern Europe|
+|#A2N - Saudi Arabia - Arabic'English |#ABP Swiss (German)|#AKJ Hebrew (English)|
+|#A2Q - Ukraine - Ukrainian |#ABQ Swiss (French)|#AKL Thailand|
+|#AB0 Taiwan|#ABS Sweden|#AKN Slovenia|
+|#AB1 Korea|#ABT Hebrew|#AKQ - Serbia - Serbian |
+|#AB2 China|#ABU UK (English)|#AKR Slovakia|
+|#AB4 Singapore Malaysia|#ABV Arabia (English)|#AKS - Bulgaria - English |
+|#AB5 Hong Kong|#ABW Belgium (Flemish)|#AKV South America (Spanish)|
+|#AB6 Arabia (French)|#ABX Finland|#ARE Malaysia English|
+|#AB7 Greece|#ABY Denmark|#ARL Baltic|
+|#AB8 Turkey|#ABZ Italy|#B10 - Africa - Portuguese |
+|#AB9 Portugal|#AC4 Brazil|#B16 LA Spanish|
+|#ABA US (English)|#AC8 Argentina (Spanish)|#B1R - Baltics Estonia - en/lt/lv/ee |
+|#ABB Europe (English)|#ACB Russia|#BCM Ukraine|
+|#ABC Canada (French)|#ACJ India|#BED - Adriatics - en/sl/hr/sr |
+|#ABD Germany|#ACQ South Africa|#BH4 - Africa - fr/ar/en  - FR KB|
+|#ABE Spain|#ACY Sweden (English)|#BH5 kenya|
+|#ABF France|#AH3 - Palestine - Arabic/English |#BJA- Kazakhstan - Russian |
+|#ABG Australia|#AK8 - Sweden/Finland - se/fi/en |#UUF Asia Pacific English|
+|#ABH Netherlands|#AKB Czech|#UUG Belgium french|
+|#ABJ Japan|#AKC Hungary|#UUW Skandinavien|
+|#ABL Canada english/french|#AKD Poland|#UUZ Switzerland|
+|#ABM L A (Spanish)|#AKE - Romania - Romanian ||

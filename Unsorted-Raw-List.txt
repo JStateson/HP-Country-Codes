@@ -53,4 +53,40 @@
 #BCM Ukraine
 #ACJ India
 #BH5 kenya
-#B1R Estonia
+A2M - Iceland - English 
+A2N - Saudi Arabia - Arabic'English 
+A2Q - Ukraine - Ukrainian 
+AB6 - EMEA- Arabic/French 
+AB7 - Greece - Greek 
+AB8 - Turkey - Turkish 
+AB9 - Portugal - Portuguese 
+ABB - EMEA- INTL English Loc - Euro plug
+ABD - Germany - German 
+ABE - Spain - Spanish 
+ABF - France - French 
+ABH - Netherlands - Dutch 
+ABN - Norway - Norwegian 
+ABT - Israel - Hebrew 
+ABU - United Kingdom - English 
+ABV - EMEA- Arabic/English 
+ABY - Denmark - Danish 
+ABZ - Italy - Italian 
+ACQ - Southern Africa - English loc - SA plug
+AH3 - Palestine - Arabic/English 
+AK8 - Sweden/Finland - se/fi/en 
+AKC - Hungary - Hungarian 
+AKD - Poland - Polish 
+AKE - Romania - Romanian 
+AKQ - Serbia - Serbian 
+AKS - Bulgaria - English 
+B10 - Africa - Portuguese 
+B1R - Baltics Estonia - en/lt/lv/ee 
+BCM - Czech Rep/Slovakia - cz/sk 
+BED - Adriatics - en/sl/hr/sr 
+BH4 - Africa - fr/ar/en  - FR KB
+BH5 - Africa - en/ar/fr  - INTL KB
+BJA- Kazakhstan - Russian 
+UUG - Belgium - en/nl/fr/de 
+UUG - Russian - Russian for RoECG (Russian speaking eastern countries group)
+UUW - Nordics - en/da/sv/fi/no 
+UUZ - Switzerland - de/fr/it/en 

@@ -1,0 +1,56 @@
+#AB0 Taiwan
+#AB1 Korea
+#AB2 China
+#AB4 Singapore Malaysia
+#AB5 Hong Kong
+#AB6 Arabia (French)
+#AB7 Greece
+#AB8 Turkey
+#AB9 Portugal
+#ABA US (English)
+#ABB Europe (English)
+#ABC Canada (French)
+#ABD Germany
+#ABE Spain
+#ABF France
+#ABG Australia
+#ABH Netherlands
+#ABJ Japan
+#ABM L A (Spanish)
+#ABN Norway
+#ABP Swiss (German)
+#ABQ Swiss (French)
+#ABS Sweden
+#ABT Hebrew
+#ABU UK (English)
+#ABV Arabia (English)
+#ABW Belgium (Flemish)
+#ABX Finland
+#ABY Denmark
+#ABZ Italy
+#AC4 Brazil
+#AC8 Argentina (Spanish)
+#ACB Russia
+#ACQ South Africa
+#ACY Sweden (English)
+#AKB Czech
+#AKC Hungary
+#AKD Poland
+#AKG Eastern Europe
+#AKJ Hebrew (English)
+#AKL Thailand
+#AKN Slovenia
+#AKR Slovakia
+#AKV South America (Spanish)
+#ARL Baltic
+#ARE Malaysia English
+#B16 LA Spanish
+#UUF Asia Pacific English
+#UUZ Switzerland
+#ABL Canada english/french
+#UUG Belgium french
+#UUW Skandinavien
+#BCM Ukraine
+#ACJ India
+#BH5 kenya
+#B1R Estonia
