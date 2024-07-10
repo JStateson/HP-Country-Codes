@@ -44,6 +44,7 @@
 #AKV South America (Spanish)
 #ARL Baltic
 #ARE Malaysia English
+#AR6 Indonesia (English ?)
 #B16 LA Spanish
 #UUF Asia Pacific English
 #UUZ Switzerland
@@ -85,7 +86,7 @@ BCM - Czech Rep/Slovakia - cz/sk
 BED - Adriatics - en/sl/hr/sr 
 BH4 - Africa - fr/ar/en  - FR KB
 BH5 - Africa - en/ar/fr  - INTL KB
-BJA- Kazakhstan - Russian 
+BJA - Kazakhstan - Russian 
 UUG - Belgium - en/nl/fr/de 
 UUG - Russian - Russian for RoECG (Russian speaking eastern countries group)
 UUW - Nordics - en/da/sv/fi/no 

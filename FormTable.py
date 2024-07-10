@@ -42,6 +42,7 @@ def sort_and_remove_duplicates():
     seen = set()
     unique_lines = []
     for line in sorted_lines:
+        line = line.replace(" - "," ")
         if line[:4] not in seen:
             unique_lines.append(line)
             seen.add(line[:4])
@@ -57,7 +58,7 @@ def sort_and_remove_duplicates():
           
     # Write the sorted, unique lines back to the file
     with open(SortedUnique, 'w') as file:
-        LineOut = "This file is not used\r\n"
+        LineOut = "This file is used by MacroViewer\r\n"
         LineOut += "Number Countries:" + str(NumItems) + "\r\n"
         LineOut += "Columns wanted:" + str(ColumnsWanted) + "\r\n"
         LineOut += "Number Rows:" + str(nRows) + "\r\n"
